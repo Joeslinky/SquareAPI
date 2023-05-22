@@ -1,0 +1,20 @@
+{
+  "domain": "square",
+  "name": "Square Integration",
+  "documentation": "https://your-documentation-url",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "config_flow": false,
+  "zeroconf": [],
+  "homeassistant": ">=0.115.0",
+  "version": "0.1.0",
+  "custom_components": [
+    {
+      "name": "square",
+      "version": "0.1.0",
+      "requirements": [],
+      "codeowners": []
+    }
+  ]
+}
